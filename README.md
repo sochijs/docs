@@ -1,4 +1,4 @@
 ## Ссылки
 
-- [Список чатов](./docs/tree/master/chats)
-- [Логотипы сообщества](./docs/tree/master/media/logo)
+- [Список чатов](./tree/master/chats)
+- [Логотипы сообщества](./tree/master/media/logo)
