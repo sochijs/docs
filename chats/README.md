@@ -1,9 +1,9 @@
 # Чаты и места общения
 
-- [Основной чат "Sochi JS"](https://tglink.ru/sochijs)
+- [Основной чат "Sochi JS"](https://t.me/sochijs)
   - [Правила основного чата](./RULES.md)
 
 Список тематических и других локальных сообществ "Большого Сочи"
 
-- [IT Сообщество Сочи](https://tglink.ru/it_sochi)
+- [IT Сообщество Сочи](https://t.me/it_sochi)
 - [ПОЛЯНА IT](https://t.me/polyana_it)
